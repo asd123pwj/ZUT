@@ -1,8 +1,8 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - name: "MMSegmentation Contributors"
-title: "OpenMMLab Semantic Segmentation Toolbox and Benchmark"
-date-released: 2020-07-10
-url: "https://github.com/open-mmlab/mmsegmentation"
+  - name: "Wenjie Pan"
+title: "Source Code of Fair Training with Zero Inputs"
+date-released: 2025-03-11
+url: "https://github.com/asd123pwj/ZUT"
 license: Apache-2.0
