@@ -1,4 +1,4 @@
-# Fair Training with Zero Inputs
+# Fair Training with Zero Inputs [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32676/34831)
 
 This repository is the official implementation for semantic segmentation in our AAAI 2025 oral presentation paper *Fair Training with Zero Inputs*.
 
@@ -52,6 +52,8 @@ python tools/train.py configs/0_ZUT_baseline/convnext_tiny.py
    author = {Pan, Wenjie and Zhu, Jianqing and Zeng, Huanqiang},
    title = {Fair Training with Zero Inputs},
    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+   volume = {39},
+   pages = {6317-6325},
    address= {Pennsylvania, USA},
    year = {2025},
    type = {Conference Proceedings}
