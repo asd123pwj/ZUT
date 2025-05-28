@@ -1,5 +1,5 @@
 _base_ = [
-    'p2t_tiny.py'
+    'r50.py'
 ]
 
 norm_cfg = dict(type='SyncBN', requires_grad=True)
@@ -18,6 +18,7 @@ model = dict(
     _delete_=True,
     type='EncoderDecoder',
     data_preprocessor=data_preprocessor,
+    pretrained='',
     backbone=dict(
         type='mmpretrain.PoolFormer',
         arch='s12',

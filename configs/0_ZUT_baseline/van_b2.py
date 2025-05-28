@@ -1,5 +1,5 @@
 _base_ = [
-    'p2t_tiny.py'
+    'r50.py'
 ]
 
 model = dict(
