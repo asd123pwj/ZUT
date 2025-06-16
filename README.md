@@ -1,4 +1,4 @@
-# Fair Training with Zero Inputs [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32676/34831) [[Oral Presentation/Poster]](https://drive.google.com/drive/folders/1hWFJ2n4LnGnnD2r-C6dLyE31-0UJldfw?usp=drive_link)
+# Fair Training with Zero Inputs [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32676/34831) [[Oral Presentation/Poster]](https://drive.google.com/drive/folders/1hWFJ2n4LnGnnD2r-C6dLyE31-0UJldfw?usp=drive_link) [[中文介绍]](https://mwhls.top/5032.html)
 
 This repository is the official implementation for semantic segmentation in our AAAI 2025 oral presentation paper *Fair Training with Zero Inputs*.
 
